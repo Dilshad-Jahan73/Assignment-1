@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin-left: 0 auto ;
+    padding-top: 10px;
+}
+.first-mission
+{
+    font-size: 55px;
+    font-weight: 900;
+    font-family: 'Lora', serif;
+    border-left: 4px solid rosybrown;
+}
+#mission
+{
+    color: orangered;
+}
+.explore-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(coral, salmon);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: wheat;
+}
+.half-width{
+    width:50%;
+    padding-left: 9%;
+    margin-top: 5%;
+}
+.half-width img{
+    padding-top: 10%;
+    width: 70%;
+    margin-right: 0 auto;
+}
+.felx-container{
+    display: flex;
+    margin-bottom: 150px;
+}
