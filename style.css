@@ -9,7 +9,7 @@ body{
     font-weight: 800;
     font-family: 'Lora', serif;
     border-left: 4px solid rosybrown;
-    padding-left: 0 auto;
+    padding-left: 2%;
 }
 .mission-1
 {
@@ -38,7 +38,7 @@ body{
     display: flex;
     margin-bottom: 40px;
 }
-h1{
+#mi-1{
     text-align: center;
     font-size: 40px;
     font-family: 'Poppins', sans-serif;
@@ -90,4 +90,38 @@ h1{
     padding-left: 0%;
     margin-right: 20%;
     width: 50%;
+}
+#mi-4{
+    text-align: left;
+    font-size: 50px;
+}
+.mission-4
+{
+    background-image: url(./shapes/shape-1.png); 
+    background-repeat: no-repeat;
+    background-position:right bottom;
+    background-size:35%;
+    margin-top: 0%;
+}
+.traffic{
+    text-align: center;
+}
+.traffic-1{
+    margin-left: 0%;
+    margin-right: 20%;
+}
+#footer-section{
+    background-color: black;
+    color: white;
+}
+footer h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+footer p{
+    text-align: center;
+}
+#f-2022{
+    color: tomato;
 }
